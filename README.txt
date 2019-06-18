@@ -1,0 +1,1 @@
+Ejemplo configuracion e instanciacion de beans 
